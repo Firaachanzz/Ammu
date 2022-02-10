@@ -25,7 +25,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D-E-V-I-L-8/Ammu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Firaachanzz/Ammu)
 
 
 ## `CHANGE DYNO`
